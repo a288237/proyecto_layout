@@ -1,0 +1,22 @@
+body{
+  background: #91A2A8;
+}
+#wrapper{
+  background: #FFFFFF;
+  width: 800px;
+  margin: 50px auto;
+}
+#header{
+  background: #5DE8B0;
+  padding: 20px;
+  color: white;
+}
+#header h1{
+  text-align: center;
+}
+#nav{
+  float: left;
+  height: 600px;
+  margin-right: 15px;
+  padding-top: 25px;
+}
